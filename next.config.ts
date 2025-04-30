@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  // ... โค้ดอื่นๆ ของคุณ ...
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'c4.wallpaperflare.com',
+        port: '',
+        pathname: '/wallpaper/**',
+      },
+      // คุณสามารถเพิ่ม hostname อื่นๆ ได้ที่นี่
+    ],
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
