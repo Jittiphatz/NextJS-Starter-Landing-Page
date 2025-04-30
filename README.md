@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll library
 - [Lenis](https://lenis.darkroom.engineering/) - A smooth scroll library
 - [Framer Motion](https://motion.dev/) - a modern animation library for JavaScript, React, and Vue.
-- [Fontsource]() - 
+- [Fontsource](https://fontsource.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 
