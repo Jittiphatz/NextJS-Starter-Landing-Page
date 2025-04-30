@@ -48,7 +48,7 @@ const HeroSection: React.FC = () => {
                 </div>
                 <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden shadow-xl">
                     <Image
-                        src="https://c4.wallpaperflare.com/wallpaper/388/898/571/hd-images-nature-pc-1920x1080-wallpaper-preview.jpg"
+                        src="/image.jpg"
                         alt="Product Image"
                         fill
                         style={{
