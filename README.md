@@ -20,7 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Lenis](https://lenis.darkroom.engineering/) - A smooth scroll library
 - [Framer Motion](https://motion.dev/) - a modern animation library for JavaScript, React, and Vue.
 - [Fontsource](https://fontsource.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
 
 
 # 📸 Screenshots
