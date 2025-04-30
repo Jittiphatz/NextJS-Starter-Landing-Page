@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
                 <div className="flex justify-center mt-2 space-x-4">
                     <a href="#" className="text-gray-400 hover:text-white">Privacy Policy</a>
                     <a href="#" className="text-gray-400 hover:text-white">Terms of Service</a>
-                    <a href="https://github.com/Jittiphatz" className="text-gray-400 hover:text-white">GitHub</a>
+                    <a href="https://github.com/Jittiphatz/NextJS-Starter-Landing-Page" className="text-gray-400 hover:text-white">GitHub</a>
                 </div>
             </div>
         </footer>
